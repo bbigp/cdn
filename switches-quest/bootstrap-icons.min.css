@@ -1,7 +1,7 @@
 @font-face {
     font-family:bootstrap-icons;
-    src:url(https://n.onlybox.cn/switches-quest/bootstrap-icons.woff2) format("woff2"),
-    url(https://n.onlybox.cn/switches-quest/bootstrap-icons.woff) format("woff")
+    src:url(./bootstrap-icons.woff2) format("woff2"),
+    url(./bootstrap-icons.woff) format("woff")
 }
 
 .bi::before,[class*=" bi-"]::before,[class^=bi-]::before {
